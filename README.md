@@ -10,6 +10,22 @@ This project evaluates multiple classification pipelines ranging from traditiona
 
 ---
 
+## Visualizations
+
+### Log-Mel Spectrogram
+
+![Log-Mel Spectrogram](images/log-mel-spectrogram.png)
+
+### CNN Confusion Matrix
+
+![CNN Confusion Matrix](images/confusion-matrix.png)
+
+### t-SNE Feature Embeddings
+
+![t-SNE Plot](images/t-SNE-plot.png)
+
+---
+
 ## Vessel Categories
 
 The models were trained to classify the following vessel categories:
