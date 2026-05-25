@@ -175,22 +175,14 @@ This experiment demonstrates that the proposed pipeline performs strongly when c
 ```text
 acoustic-ship-classification/
 
+├── images/
 ├── notebooks/
-│   ├── 01_mfcc_logistic_regression.ipynb
-│   ├── 02_cnn_spectrogram.ipynb
-│   ├── 03_hierarchical_pipeline.ipynb
-│   └── 04_ds3500_resnet18.ipynb
-│
-├── results/
-│   ├── confusion_matrices/
-│   ├── spectrograms/
-│   ├── tsne/
-│   └── metrics/
-│
 ├── docs/
 │   └── project_report.pdf
 │
 ├── requirements.txt
+├── LICENSE
+├── .gitignore
 └── README.md
 ```
 
